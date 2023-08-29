@@ -10,8 +10,8 @@
 //
 //===--------------------------------------------------------------------
 
-import ArgumentParser
 import Figlet
+import ArgumentParser
 
 @main
 struct FigletTool: ParsableCommand {
